@@ -1,4 +1,4 @@
-# Arcade Game
+# Arcade Game Clone
 
 It's a project in Udacity's FEND nanodegree
 
